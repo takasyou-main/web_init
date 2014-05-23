@@ -1,4 +1,4 @@
-h1{display:inline;}
+
 #toph1{ background-color:#DF7401;
 color:FFFFFF;
 position:relative;
@@ -20,6 +20,7 @@ body{
     font-size:16pt;
     font-style:oblique;
 }
+#return{display:inline;}
 td{border: solid 1px;}
 th{border: solid 1px;}
 td.link{font-size:16pt;
