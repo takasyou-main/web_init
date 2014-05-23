@@ -1,0 +1,65 @@
+#toph1{ background-color:#DF7401;
+color:FFFFFF;
+position:relative;
+right:50pt;
+width:1100pt;
+}
+body{
+    background-color:#FBF2EF;
+    margin:0pt 0pt 0pt 40pt;
+}
+#top{
+    position:relative;
+    font-size:32pt;
+    left:50pt;}
+#sub{
+    position:relative;
+    left:650pt;
+    bottom:15pt;
+    font-size:16pt;
+    font-style:oblique;
+}
+td{border: solid 1px;}
+th{border: solid 1px;}
+td.link{font-size:16pt;
+    border:3px solid #DF7401;}
+th.link{font-size:16pt;
+    border:3px solid #DF7401;
+  background-color:#FACC2E;}
+h2{font-size:24pt;
+   color:#000000;
+   background-color:#FACC2E;
+   width:500pt;
+}
+em{
+    font-size:14pt;
+    font-family:'メイリオ',Meiryo;
+    text-shadow:1px 1px 4px;
+    font-style:oblique;
+}
+table{border-collapse:collapse;}
+table.link{
+    border-collapse: separate;
+    border-spacing:4pt;
+}
+#title{font-size:32pt;
+       border-width:1pt;
+       position:relative;
+       bottom:15pt;
+       left:10pt;
+       border:1px;
+}
+#bar{border-style:double;
+  border-width:3pt;
+color:#FACC2E;}
+p.link{
+    position:relative;
+    bottom:20pt;
+}
+
+p{width:650pt;}
+
+li{font-size:15pt;
+  text-decoration:underline;}
+address{color:red;}
+#input{outline:3pt solid #c0ffee;}
