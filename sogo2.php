@@ -76,5 +76,9 @@
 <form method="post" action="./sogo2.php">
 <input type="text" id="input" name="haija">
 <input type="submit" value="LHE">
-<div><?php echo $result; ?></div>
+<div><?php echo htmlspecialchars($result,ENT_QUOTES); ?></div>
 </form>
+
+
+
+
