@@ -35,8 +35,8 @@
 	  </tr>
 	  </table>
 <hr id="bar">
-<h1><div id="title">総合科目 Ⅱ<div></h1>
-<p id ="return"><a href ="index.html">ホームに戻る</a></p>
+<h1><div id="title">総合科目 Ⅱ<div>
+<p id ="return"><a href ="index.html">ホームに戻る</a></p></h1>
 
 <h2>一年生最大の悩みどころ</h2>
 <p>総合科目Ⅱは、１、２時の基礎必修科目である。総合単位は6。3つの科目群に分かれている。</p>
