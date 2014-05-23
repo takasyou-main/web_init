@@ -20,7 +20,7 @@ body{
     font-size:16pt;
     font-style:oblique;
 }
-p.return{display:inline;}
+#return{display:inline;}
 td{border: solid 1px;}
 th{border: solid 1px;}
 td.link{font-size:16pt;
