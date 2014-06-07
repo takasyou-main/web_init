@@ -3,9 +3,8 @@ int main(){
   int a=0;
   printf("時限爆弾を設定します秒数を入力してください\n:");
   scanf("%d",&a);
-  
-  int hour=a/3600;
-  int tmp_a=a-3600*hour;
+  int hour=a/3600;//整数に代入するので、切り捨てられる。  
+  int tmp_a=a-3600*hour;//余りを代入
   int minite=tmp_a/60;
   tmp_a=tmp_a-minite*60;
   int second=tmp_a;
